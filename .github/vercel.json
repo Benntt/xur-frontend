@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/xur.js": {
+      "maxDuration": 10
+    }
+  }
+}
