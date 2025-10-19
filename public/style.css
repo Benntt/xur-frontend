@@ -1,0 +1,5 @@
+body{font-family:system-ui;background:#0b0b0b;color:#eee;margin:0;padding:2rem}
+h1{color:#f1c40f}
+ul{list-style:none;padding:0}
+li{background:#111;margin:.25rem 0;padding:.5rem 1rem;border-left:3px solid #f1c40f}
+footer{margin-top:2rem;font-size:.75rem;opacity:.6}
